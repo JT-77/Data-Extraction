@@ -1,0 +1,34 @@
+# Core dependencies
+torch
+torchvision
+transformers
+timm
+datasets
+evaluate
+
+# OCR / Image processing
+pytesseract
+opencv-python
+Pillow
+
+# JSON and text utilities
+regex
+jsonlines
+beautifulsoup4
+
+# Metrics and string similarity
+python-Levenshtein0
+rapidfuzz
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# VLM and API integration
+ollama
+google-generativeai
+
+# Development / logging
+tqdm
+pandas
+numpy
